@@ -26,7 +26,7 @@ media-data.pkl
 - **title_url**: Title that came with the URL extraction
 
 
-###Source
+### Source
 
 This DataFrame is a combination of data downloaded from Media Cloud and data scraped manually. It represents a mix of curated content from Media Cloud URLs and scraped content gathered by the user.
 
@@ -38,7 +38,7 @@ The DataFrame is organized with the following columns:
 
 - **Text Data**: Columns such as 'Body' and 'Title' contain textual information related to the entries.
 - **Metadata**: Columns like 'publish_date', 'media_name', 'stories_id', 'story_tags', 'collect_date_', 'collect_year', and 'collect_month' provide metadata information about each entry.
-- **Cleaned Data**: Columns with names like 'Cleaned_Body', 'Cleaned_Title', 'Cleaned_Body_sw', and 'Cleaned_Title_sw' represent versions of text data after cleaning and processing, potentially including stop words removal.
+- **Cleaned Data**: Columns with names like 'Cleaned_Body', 'Cleaned_Title', 'Cleaned_Body_sw', and 'Cleaned_Title_sw' represent versions of text data after cleaning and processing, and including stop words removal.
 
 This DataFrame can be used for various data analysis tasks related to text processing, content categorization, time-based analysis, and more.
 
