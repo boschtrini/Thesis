@@ -26,7 +26,7 @@ media-data.pkl
 - **title_url**: Title that came with the URL extraction
 
 
-###Source
+### Source
 
 This DataFrame is a combination of data downloaded from Media Cloud and data scraped manually. It represents a mix of curated content from Media Cloud URLs and scraped content gathered by the user.
 
